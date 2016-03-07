@@ -56,6 +56,6 @@ public class Car {
      * 			Arabanýn o anki güncel bilgisini verir.
      */
     public String getInfo(){
-        return "Car Info: " + year + " " + make + " " + model + ". Distance: " + distance + " km. and traveling at " + speed + " kmph.";
+        return "Car Info: " + year + " " + make + " " + model + ". Distance: " + distance + " km. and travelling at " + speed + " kmph.";
     }
 }
