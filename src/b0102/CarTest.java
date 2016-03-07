@@ -3,7 +3,7 @@ package b0102;
 
 /**
  * Bu sýnýf {@link Car} sýnýfýnýn test sýnýfýdýr. 
- * Car sýnýfýndan nesneler üretip onlarýn durumlarýný deðiþtirmekte ve onlardan hizmet almaktadýr.
+ * {@link Car} sýnýfýndan nesneler üretip onlarýn durumlarýný deðiþtirmekte ve onlardan hizmet almaktadýr.
  * @author <a href="mailto:akin@javaturk.org">Akin Kaldiroglu</a>
  *         <p>
  *         Daha fazla bilgi için:
@@ -15,7 +15,7 @@ package b0102;
 public class CarTest {
  
 	/**
-	 * Main metodda {@link Car} objeleri üretilir ve durumlarý belirlenir veya deðiþtirilir.
+	 * <code>main</code> metodda {@link Car} objeleri üretilir ve durumlarý belirlenir veya deðiþtirilir.
      *    
      * @see Car
      * @param args[] String dizisi.

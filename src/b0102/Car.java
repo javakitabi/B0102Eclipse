@@ -1,7 +1,7 @@
 package b0102;
  
 /**
- * Bu örnek, bir araba soyutlamasýnýn (abstraction) nasýl yapýlacaðýný anlatmaktadýr. 
+ * Bu sýnýf, bir araba soyutlamasýnýn (abstraction) nasýl yapýlacaðýný anlatmaktadýr. 
  * <code>Car</code> sýnýfý, gerçek dünyadaki arabaya karþýlýk gelmekte yani araba soyutlamasýný ifade etmektedir.
  * <code>Car</code> sýnýfý bir çok deðiskene sahip olup, müþterilerine belli hizmetler sunmaktadýr. 
  * Bu cümleyi daha doðru bir þekilde, “<code>Car</code> sýnýfýndan üretilen nesnelerin bir durumu ve 
